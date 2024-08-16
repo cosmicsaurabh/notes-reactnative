@@ -22,6 +22,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "35b8f42b-c1ec-4756-b6b6-c20857128279"
+      }
+    },
+    "owner": "saurabh_cosmic"
   }
 }
